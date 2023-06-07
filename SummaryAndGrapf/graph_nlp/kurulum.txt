@@ -1,0 +1,50 @@
+Python 3.8 veya daha güncel bir versiyon.
+
+Paket yönetici (pip) - python ile birlikte geliyor zaten.
+
+“
+pip install nltk
+pip install torch
+pip install gensim
+pip install numpy
+pip install networkx
+pip install matplotlib
+pip install sklearn
+pip install transformers
+pip install tk
+pip install scikit-learn
+“
+
+Tüm bu kütüphanelerin indirilmesi gerekiyor.
+
+Bert modeli ve tokenizeri için:
+
+“
+pip install transformers
+“
+
+NetworkX: 
+“
+pip install networkx
+pip install matplotlib
+“
+
+PyTorch:
+“
+pip install torch
+“
+
+——- Kütüphaneleri neler için kullandık ?
+
+nltk: doğal dil işleme, tokenleştime, analiz, kök bulma vs.
+torch: öğrenme ve tensor hesapları 
+gensim: kelime vektörleri vs
+numpy: pythondaki sayısal hesaplar
+networkx: graph 
+matplotlib: yine çizim görselleştirme
+sklearn: pythondaki makine öğrenimi
+tk: arayüz
+
+---
+
+Lütfen oluşturulacak csv dosyalarını kendi bilgisayarınızda güncel path ile kodda belirtiniz.
